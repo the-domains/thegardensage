@@ -1,0 +1,28 @@
+name: TheGardenSage
+favicon: null
+layout_spectrum: 0.8611744816880673
+typography_spectrum: 0.9509150329977274
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.18885228503495455
+  lightness: 0.09682917036116123
+  saturation: 0.662772904150188
+  rhythmicContrast: 0.6886463803239167
+purpose: []
