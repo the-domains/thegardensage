@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TheGardenSage]]></title>
+        <description><![CDATA[TheGardenSage]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 May 2016 17:26:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e712736-34a8-4a08-b55a-de7df730e914.jpg" alt="&copy;Farm Till" title="">]]></description>
+            <link>undefinedthe-gardensage/index.html</link>
+            <guid isPermaLink="false">4b5047f4-5525-41d8-9681-83dace7abd21</guid>
+            <pubDate>Thu, 05 May 2016 17:26:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
