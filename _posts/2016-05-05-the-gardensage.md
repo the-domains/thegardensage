@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The GardenSage
-datePublished: '2016-05-05T17:43:28.898Z'
-dateModified: '2016-05-05T17:42:43.291Z'
+datePublished: '2016-05-05T18:03:09.681Z'
+dateModified: '2016-05-05T18:03:09.399Z'
 title: ''
 author:
   - name: ''
