@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The GardenSage
-datePublished: '2016-05-05T17:26:16.430Z'
-dateModified: '2016-05-03T23:47:39.422Z'
+datePublished: '2016-05-05T17:43:28.898Z'
+dateModified: '2016-05-05T17:42:43.291Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-05-the-gardensage.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-the-gardensage.md
 url: the-gardensage/index.html
 _type: Article
 
