@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TheGardenSage]]></title>
+        <description><![CDATA[TheGardenSage]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 May 2016 21:00:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Equisetum | Horsetail]]></title>
+            <description><![CDATA[<article><h1>Equisetum | Horsetail</h1><p>©copyright</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4438afc8-7d45-4e24-90d3-8e609c3e9dbe.jpg"></article>]]></description>
+            <link>undefinedequisetum-or-horsetail/index.html</link>
+            <guid isPermaLink="false">d521fdb4-3aa8-4298-9966-221d30122c33</guid>
+            <pubDate>Fri, 06 May 2016 21:00:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
