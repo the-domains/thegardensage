@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TheGardenSage]]></title>
         <description><![CDATA[TheGardenSage]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://thegardensage.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 21:00:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 21:06:02 GMT</lastBuildDate>
+        <atom:link href="http://thegardensage.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chili Peppers]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92da955363662d22372e6f817fb7cc71bcdb99cf.jpg" alt="&copy;copyright" title="" />]]></description>
+            <link>http://thegardensage.org/chili-peppers/index.html</link>
+            <guid isPermaLink="false">f959c17a-96b7-4561-aefa-c136d6da7031</guid>
+            <pubDate>Fri, 06 May 2016 21:06:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Equisetum | Horsetail]]></title>
             <description><![CDATA[<article><h1>Equisetum | Horsetail</h1><p>©copyright</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4438afc8-7d45-4e24-90d3-8e609c3e9dbe.jpg"></article>]]></description>
-            <link>undefinedequisetum-or-horsetail/index.html</link>
+            <link>http://thegardensage.org/equisetum-or-horsetail/index.html</link>
             <guid isPermaLink="false">d521fdb4-3aa8-4298-9966-221d30122c33</guid>
             <pubDate>Fri, 06 May 2016 21:00:14 GMT</pubDate>
         </item>
