@@ -1,6 +1,6 @@
 name: TheGardenSage
 favicon: null
-layout_spectrum: 0.76268
+layout_spectrum: 0.48005
 typography_spectrum: 0.72015
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#221e0e'
     - '#b1a8a0'
     - '#f3f0ef'
-  brandStrength: 0.1875
-  lightness: 0.09682917036116123
-  saturation: 0.5
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 1
   rhythmicContrast: 0.25
 purpose: []
