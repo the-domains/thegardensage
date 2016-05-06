@@ -4,8 +4,15 @@
         <description><![CDATA[TheGardenSage]]></description>
         <link>http://thegardensage.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 21:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 21:19:56 GMT</lastBuildDate>
         <atom:link href="http://thegardensage.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bees]]></title>
+            <description><![CDATA[<p>"If the bee disappeared off the face of the earth, man would have only four years left to live."</p>]]></description>
+            <link>http://thegardensage.org/bees/index.html</link>
+            <guid isPermaLink="false">b575816e-30bb-4233-a219-1df2e1f11e7b</guid>
+            <pubDate>Fri, 06 May 2016 21:19:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Equisetum | Horsetail]]></title>
             <description><![CDATA[<article><h1>Equisetum | Horsetail</h1><p>©copyright</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4438afc8-7d45-4e24-90d3-8e609c3e9dbe.jpg"></article>]]></description>
