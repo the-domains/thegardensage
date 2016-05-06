@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ©copyright
-datePublished: '2016-05-06T21:08:41.136Z'
-dateModified: '2016-05-06T21:03:20.998Z'
+datePublished: '2016-05-06T21:15:55.863Z'
+dateModified: '2016-05-06T21:15:32.950Z'
 title: 'Equisetum | Horsetail'
 author:
   - name: ''
