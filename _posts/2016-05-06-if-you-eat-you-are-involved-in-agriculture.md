@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' "If you eat you are involved in agriculture."'
-datePublished: '2016-05-06T21:04:08.316Z'
-dateModified: '2016-05-06T13:32:10.434Z'
+datePublished: '2016-05-08T19:13:34.616Z'
+dateModified: '2016-05-08T18:28:03.069Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-06-if-you-eat-you-are-involved-in-agriculture.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-06-if-you-eat-you-are-involved-in-agriculture.md
 url: if-you-eat-you-are-involved-in-agriculture/index.html
 _type: Blurb
 
