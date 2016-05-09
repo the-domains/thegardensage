@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Rambutan | Tamarindo'
-datePublished: '2016-05-09T18:01:32.081Z'
-dateModified: '2016-05-09T18:01:23.384Z'
+datePublished: '2016-05-09T18:15:45.018Z'
+dateModified: '2016-05-09T18:15:42.346Z'
 title: ''
 author:
   - name: ''
@@ -23,11 +23,11 @@ url: rambutan-or-tamarindo/index.html
 _type: Article
 
 ---
+**Rambutan | Tamarindo**
+
 **Contact **
 
 thegardensage52@gmail.com | 631 238 4327
 
 (c)2016 The Garden Sage, ALL RIGHTS RESERVED
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb8fd025-842d-4f07-a6d0-00aae5f46c15.jpg)
-
-Rambutan | Tamarindo
