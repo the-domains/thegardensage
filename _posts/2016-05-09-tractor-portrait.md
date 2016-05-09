@@ -5,18 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Tractor Portrait
-datePublished: '2016-05-09T19:14:32.570Z'
-dateModified: '2016-05-09T19:01:06.332Z'
+datePublished: '2016-05-09T19:32:37.746Z'
+dateModified: '2016-05-09T19:32:31.083Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-09-tractor-portrait.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-09-tractor-portrait.md
+starred: true
 url: tractor-portrait/index.html
 _type: Article
 
