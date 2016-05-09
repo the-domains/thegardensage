@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'chili peppers | arivivis- C. baccatum var. baccatum, C. chacoense'
-datePublished: '2016-05-09T20:36:57.883Z'
-dateModified: '2016-05-09T20:36:57.612Z'
+datePublished: '2016-05-09T21:41:29.446Z'
+dateModified: '2016-05-09T21:41:29.121Z'
 title: ''
 author:
   - name: ''
@@ -23,7 +23,4 @@ url: chili-peppers/index.html
 _type: Article
 
 ---
-![©copyright](https://s3-us-west-2.amazonaws.com/the-grid-img/p/92da955363662d22372e6f817fb7cc71bcdb99cf.jpg)
-
 **chili peppers** | arivivis- C. baccatum var. baccatum, C. chacoense
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae509e70-6693-48df-84f3-09cb2b593e64.jpg)
