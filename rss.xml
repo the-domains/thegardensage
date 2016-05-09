@@ -4,7 +4,7 @@
         <description><![CDATA[TheGardenSage]]></description>
         <link>http://thegardensage.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 20:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 20:37:01 GMT</lastBuildDate>
         <atom:link href="http://thegardensage.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,20 @@
             <link>http://thegardensage.org/tractor-portrait/index.html</link>
             <guid isPermaLink="false">ed0e8fb6-cb7d-4c7e-b2b5-b8b02844b17d</guid>
             <pubDate>Mon, 09 May 2016 19:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chili Peppers]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92da955363662d22372e6f817fb7cc71bcdb99cf.jpg" alt="&copy;copyright" title="">]]></description>
+            <link>http://thegardensage.org/chili-peppers/index.html</link>
+            <guid isPermaLink="false">f959c17a-96b7-4561-aefa-c136d6da7031</guid>
+            <pubDate>Mon, 09 May 2016 20:36:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee553b8acbf23395f92a95f594134a6e7f47a2db.jpg" alt="" title="">]]></description>
+            <link>http://thegardensage.org/union-square-green-market/index.html</link>
+            <guid isPermaLink="false">87da95e3-7bcb-4bbe-a29b-67d998ca7b91</guid>
+            <pubDate>Mon, 09 May 2016 20:36:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -56,25 +70,11 @@
             <pubDate>Sun, 08 May 2016 21:52:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee553b8acbf23395f92a95f594134a6e7f47a2db.jpg" alt="" title="">]]></description>
-            <link>http://thegardensage.org/union-square-green-market/index.html</link>
-            <guid isPermaLink="false">87da95e3-7bcb-4bbe-a29b-67d998ca7b91</guid>
-            <pubDate>Fri, 06 May 2016 21:25:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bees]]></title>
             <description><![CDATA[<p>"If the bee disappeared off the face of the earth, man would have only four years left to live."</p>]]></description>
             <link>http://thegardensage.org/bees/index.html</link>
             <guid isPermaLink="false">b575816e-30bb-4233-a219-1df2e1f11e7b</guid>
             <pubDate>Fri, 06 May 2016 21:19:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chili Peppers]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92da955363662d22372e6f817fb7cc71bcdb99cf.jpg" alt="&copy;copyright" title="" />]]></description>
-            <link>http://thegardensage.org/chili-peppers/index.html</link>
-            <guid isPermaLink="false">f959c17a-96b7-4561-aefa-c136d6da7031</guid>
-            <pubDate>Fri, 06 May 2016 21:06:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
