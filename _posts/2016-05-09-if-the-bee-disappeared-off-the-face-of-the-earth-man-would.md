@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '"If the bee disappeared off the face of the earth, man would only have four years left to live"'
-datePublished: '2016-05-09T21:56:56.950Z'
-dateModified: '2016-05-09T21:56:45.408Z'
+datePublished: '2016-05-09T22:02:44.581Z'
+dateModified: '2016-05-09T22:02:38.908Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-09-if-the-bee-disappeared-off-the-face-of-the-earth-man-would.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-09-if-the-bee-disappeared-off-the-face-of-the-earth-man-would.md
 url: if-the-bee-disappeared-off-the-face-of-the-earth-man-would/index.html
 _type: Article
 
