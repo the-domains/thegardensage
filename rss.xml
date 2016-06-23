@@ -4,7 +4,7 @@
         <description><![CDATA[TheGardenSage]]></description>
         <link>http://thegardensage.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 19:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 19:14:06 GMT</lastBuildDate>
         <atom:link href="http://thegardensage.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://thegardensage.org/tractor-portrait/index.html</link>
             <guid isPermaLink="false">ed0e8fb6-cb7d-4c7e-b2b5-b8b02844b17d</guid>
             <pubDate>Mon, 09 May 2016 19:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee553b8acbf23395f92a95f594134a6e7f47a2db.jpg" alt="" title="">]]></description>
+            <link>http://thegardensage.org/union-square-green-market/index.html</link>
+            <guid isPermaLink="false">87da95e3-7bcb-4bbe-a29b-67d998ca7b91</guid>
+            <pubDate>Thu, 23 Jun 2016 19:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +33,6 @@
             <link>http://thegardensage.org/if-the-bee-disappeared-off-the-face-of-the-earth-man-would/index.html</link>
             <guid isPermaLink="false">8c676f75-3738-4b75-8740-862631b7ed02</guid>
             <pubDate>Mon, 09 May 2016 22:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee553b8acbf23395f92a95f594134a6e7f47a2db.jpg" alt="" title="">]]></description>
-            <link>http://thegardensage.org/union-square-green-market/index.html</link>
-            <guid isPermaLink="false">87da95e3-7bcb-4bbe-a29b-67d998ca7b91</guid>
-            <pubDate>Mon, 09 May 2016 20:36:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
