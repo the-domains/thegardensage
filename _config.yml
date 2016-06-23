@@ -1,6 +1,6 @@
 name: TheGardenSage
 favicon: null
-layout_spectrum: 0.76052
+layout_spectrum: 0.50378
 typography_spectrum: 0.7935
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#38332d'
-    - '#e4e3df'
-    - '#575c74'
-    - '#93a0ad'
+    - '#ffffff'
+    - '#2a3d3e'
+    - '#7a5a3f'
+    - '#e3dbd1'
+    - '#ce4829'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
