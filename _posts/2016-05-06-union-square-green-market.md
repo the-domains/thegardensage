@@ -5,19 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Union Square Green Market'
-datePublished: '2016-05-09T20:36:44.275Z'
-dateModified: '2016-05-09T20:36:44.104Z'
+datePublished: '2016-06-23T19:14:00.856Z'
+dateModified: '2016-06-23T19:13:09.169Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-05-06-union-square-green-market.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: union-square-green-market/index.html
 _type: Article
