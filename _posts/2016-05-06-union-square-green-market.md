@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Union Square Green Market'
-datePublished: '2016-06-23T19:14:00.856Z'
-dateModified: '2016-06-23T19:13:09.169Z'
+datePublished: '2016-06-23T19:17:13.510Z'
+dateModified: '2016-06-23T19:14:09.130Z'
 title: ''
 author:
   - name: ''
